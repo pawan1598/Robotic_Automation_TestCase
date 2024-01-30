@@ -5,7 +5,7 @@ Library              SeleniumLibrary
 ${url}               https://www.amazon.de/
 ${browser}           firefox
 ${search_box_locator}       xpath://*[@id="twotabsearchtextbox"]
-${search_text}       RobotFramework
+${search_text}       Kleidung
 
 *** Test Cases ***
 OpenBrowserAndVerifySearchField
