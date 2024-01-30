@@ -38,9 +38,9 @@ This project automates interactions with the Amazon Germany website (https://www
 - Run the following command to execute the test suite:robot C:\Users\Pawan\PycharmProjects\pythonProject5\testcase\test1.robot
   
 #### Test Results
--Test results will be in the  C:\Users\Pawan\, including output,logs and reports.
-Output:  C:\Users\Pawan\output.xml
-Log:     C:\Users\Pawan\log.html
-Report:  C:\Users\Pawan\report.html
+- Test results will be in the C:\Users\Pawan\, including output,logs and reports.
+- Output:  C:\Users\Pawan\output.xml
+- Log:     C:\Users\Pawan\log.html
+- Report:  C:\Users\Pawan\report.html
 
 
